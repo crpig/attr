@@ -28,7 +28,7 @@
 #define ERROR_CONTEXT_MACROS
 #include "error_context.h"
 
-#define ATTR_CONF SYSCONFDIR "/xattr.conf"
+#define ATTR_CONF "/tmp/xattr.conf"
 
 struct attr_action {
 	struct attr_action *next;

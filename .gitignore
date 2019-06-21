@@ -32,5 +32,4 @@ stamp-h1
 *.trs
 
 /include/attr
-/include/config.h
 /include/config.h.in
